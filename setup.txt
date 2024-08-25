@@ -1,0 +1,10 @@
+[emote]
+- install emote package
+- set shortcut to Ctrl + E
+
+
+[edit file ~/.config/openbox/autostart]
+
+# CUSTOM
+# emote
+exec emote &
